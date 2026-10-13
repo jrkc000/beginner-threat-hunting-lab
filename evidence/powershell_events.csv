@@ -1,0 +1,7 @@
+timestamp,host,user,process_id,event_id,event_summary,level
+2026-10-12 08:42:21,WS-014,a.sharma,9016,4104,PowerShell engine started; host application: powershell.exe,Informational
+2026-10-12 08:42:21,WS-014,a.sharma,9016,4103,Command invocation recorded; content omitted from this training export,Warning
+2026-10-12 08:42:22,WS-014,a.sharma,9016,4104,Script block included environment discovery commands (user and network configuration),Warning
+2026-10-12 08:42:26,WS-014,a.sharma,9016,4104,Script block attempted web request to hxxps://updates-check.example.net/status,Warning
+2026-10-12 08:42:27,WS-014,a.sharma,9016,4104,Script block wrote file: C:\Users\a.sharma\AppData\Local\Temp\checkup.dat,Warning
+2026-10-12 08:43:10,WS-014,a.sharma,9016,4104,PowerShell engine stopped,Informational
