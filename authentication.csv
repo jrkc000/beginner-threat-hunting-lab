@@ -1,9 +1,0 @@
-timestamp,source_system,account,source_ip,result,logon_type,details
-2026-10-12 08:15:04,DC-01,a.sharma,10.20.14.77,Success,Interactive logon,Workstation WS-014
-2026-10-12 08:39:52,MAIL-01,a.sharma,10.20.14.77,Success,Webmail session,Outlook access
-2026-10-12 08:44:19,DC-01,a.sharma,10.20.14.77,Failure,Network logon,Bad password; single event
-2026-10-12 08:44:31,DC-01,a.sharma,10.20.14.77,Success,Network logon,SMB access to \\FS-02\Public
-2026-10-12 08:46:02,DC-01,svc_backup,10.20.14.77,Failure,Network logon,Service account used from workstation; reason not included
-2026-10-12 08:46:21,DC-01,svc_backup,10.20.14.77,Failure,Network logon,Service account used from workstation; reason not included
-2026-10-12 08:46:40,DC-01,svc_backup,10.20.14.77,Failure,Network logon,Service account used from workstation; reason not included
-2026-10-12 08:51:11,DC-01,a.sharma,10.20.14.77,Success,Interactive logon,Unlock session
