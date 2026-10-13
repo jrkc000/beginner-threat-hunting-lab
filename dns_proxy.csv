@@ -1,8 +1,0 @@
-timestamp,host,user,event_type,domain,resolved_ip,status,request
-2026-10-12 08:42:26,WS-014,a.sharma,DNS,updates-check.example.net,192.0.2.44,NOERROR,
-2026-10-12 08:42:27,WS-014,a.sharma,HTTP_CONNECT,updates-check.example.net,192.0.2.44,200,GET /status
-2026-10-12 08:42:29,WS-014,a.sharma,DNS,login.microsoftonline.com,20.190.155.10,NOERROR,
-2026-10-12 08:43:01,WS-014,a.sharma,HTTPS,login.microsoftonline.com,20.190.155.10,200,GET /common/oauth2/authorize
-2026-10-12 08:48:12,WS-014,a.sharma,DNS,intranet.corp.example,10.20.4.15,NOERROR,
-2026-10-12 08:48:14,WS-014,a.sharma,HTTPS,intranet.corp.example,10.20.4.15,200,GET /home
-2026-10-12 08:55:33,WS-014,a.sharma,DNS,updates-check.example.net,192.0.2.44,NOERROR,
