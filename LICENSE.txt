@@ -1,0 +1,1 @@
+This synthetic training case and template may be reused and modified for learning and portfolio purposes. Do not represent the synthetic logs as real incident evidence.
